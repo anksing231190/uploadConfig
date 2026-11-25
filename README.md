@@ -8,5 +8,6 @@ Home, privacy policy and terms pages for the Google OAuth consent screens of my 
 | Reddit-shorts (AITA Stories) | https://anksing231190.github.io/uploadConfig/aita/ | https://anksing231190.github.io/uploadConfig/aita/privacy.html | https://anksing231190.github.io/uploadConfig/aita/terms.html |
 | History Shorts Autopilot (Weird History Facts) | https://anksing231190.github.io/uploadConfig/history/ | https://anksing231190.github.io/uploadConfig/history/privacy.html | https://anksing231190.github.io/uploadConfig/history/terms.html |
 | Horror Shorts Autopilot (Story Videos) | https://anksing231190.github.io/uploadConfig/horror/ | https://anksing231190.github.io/uploadConfig/horror/privacy.html | https://anksing231190.github.io/uploadConfig/horror/terms.html |
+| Finfacts Story Publisher | https://anksing231190.github.io/uploadConfig/finfacts/ | https://anksing231190.github.io/uploadConfig/finfacts/privacy.html | https://anksing231190.github.io/uploadConfig/finfacts/terms.html |
 
 Authorized domain for the consent screens: `anksing231190.github.io`
